@@ -12,9 +12,7 @@ function SongRow({ track="test" }) {
                     {track.album.name}
                 </p>
             </div>
-            
         </div>
     )
 }
-
 export default SongRow
